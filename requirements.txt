@@ -1,0 +1,12 @@
+cx_oracle
+openpyxl
+pyodbc
+sqlalchemy-firebird
+fdb
+pyspark
+matplotlib
+apache-airflow-providers-telegram
+psycopg2-binary
+pymssql==2.2.10
+pymysql
+xlsxwriter
